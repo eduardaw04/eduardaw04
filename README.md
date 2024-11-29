@@ -6,4 +6,6 @@ Meu nome é Eduarda Westenhofen.
   - Estou me desenvolvendo na linguagem JavaScript.
   - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
+## Você pode entrar em contato comigo 💜
+email: eduardaw1104@gmail.com
     
